@@ -1,0 +1,5 @@
+D:\hwork\Dropbox\SampleAppsICreated\NinjectINjectionPattern\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hwork\Dropbox\SampleAppsICreated\NinjectINjectionPattern\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\hwork\Dropbox\SampleAppsICreated\NinjectINjectionPattern\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\hwork\Dropbox\SampleAppsICreated\NinjectINjectionPattern\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\hwork\Dropbox\SampleAppsICreated\NinjectINjectionPattern\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
